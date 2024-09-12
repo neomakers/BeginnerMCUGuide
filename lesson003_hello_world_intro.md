@@ -60,8 +60,8 @@ END              ; 程序结束
 - `ADD A, #01H`：每次循环将 01H 加到累加器 A 中。
 - `JMP loop`：跳转到 `loop` 标签处，形成无限循环。
 
-### 3. 通过 ProTools 进行程序模拟
-
+### 3. 通过Proteus 进行程序模拟
+![hello_world_proteus](images/lesson003_hello_world.png)
 在 ProTools 中运行程序时，学生可以通过逐步执行看到每条指令的效果，并观察累加器 A 中的变化。程序执行时，模拟界面将显示：
 - 内存地址。
 - 操作码（opcode）。
