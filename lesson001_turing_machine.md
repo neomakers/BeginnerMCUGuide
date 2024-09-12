@@ -6,7 +6,7 @@
 
 **讲述视频**：
 
-通过[哔哩哔哩的视频](bilibili.com/video/BV1br4y1N762/?spm_id_from=333.337.search-card.all.click&vd_source=375037aa76bdefb050bee20a8960c769)，向学生展示了图灵机的基本运算方式。视频内容帮助学生理解了图灵机的各个组成部分及其工作机制。
+通过[哔哩哔哩的视频](https://www.bilibili.com/video/BV1br4y1N762/?share_source=copy_web&vd_source=756b334c025a7ccc68a8c307da75d9ff)，向学生展示了图灵机的基本运算方式。视频内容帮助学生理解了图灵机的各个组成部分及其工作机制。
 
 **关键概念**：
 1. **操作表（Command）**：图灵机的核心之一，定义了如何根据当前状态和输入做出相应的操作。操作表可以看作是现代计算机程序中的指令集。
